@@ -1,0 +1,5 @@
+2024-12-27T14:41:30:929 [info]: fetch: Detected no proxy settings
+2024-12-27T14:41:30:934 [info]: [SupportedLanguageService] Initialized. Enabling the default Code Suggestions languages: c,cpp,csharp,go,haml,handlebars,java,javascript,javascriptreact,kotlin,python,php,ruby,rust,scala,shellscript,sql,swift,typescript,typescriptreact,svelte,terraform,terragrunt,vue
+2024-12-27T14:41:30:986 [info]: GitLab Language Server is starting (v7.4.0)
+2024-12-27T14:41:31:008 [info]: [HttpServer]: server listening on http://127.0.0.1:58383/
+2024-12-27T14:41:31:009 [info]: GitLab Language Server has started

@@ -1,0 +1,5 @@
+{
+    "workbench.editor.empty.hint": "hidden",
+    "conventionalCommits.lineBreak": "\\n",
+    "terminal.integrated.env.windows": {}
+}

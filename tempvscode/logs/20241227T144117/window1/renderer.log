@@ -1,0 +1,842 @@
+2024-12-27 14:41:18.698 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-27 14:41:18.706 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-27 14:41:18.706 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-27 14:41:19.064 [info] Started local extension host with pid 1844.
+2024-12-27 14:41:19.572 [error] [jinliming2.vscode-go-template]: 'configuration.semanticTokenType.description' must be defined and can not be empty
+2024-12-27 14:41:19.572 [error] [jinliming2.vscode-go-template]: 'configuration.semanticTokenType.description' must be defined and can not be empty
+2024-12-27 14:41:19.572 [error] [jinliming2.vscode-go-template]: 'configuration.semanticTokenType.description' must be defined and can not be empty
+2024-12-27 14:41:19.572 [error] [jinliming2.vscode-go-template]: 'configuration.semanticTokenType.description' must be defined and can not be empty
+2024-12-27 14:41:19.572 [error] [jinliming2.vscode-go-template]: 'configuration.semanticTokenType.description' must be defined and can not be empty
+2024-12-27 14:41:19.572 [error] [jinliming2.vscode-go-template]: 'configuration.semanticTokenType.description' must be defined and can not be empty
+2024-12-27 14:41:19.572 [error] [jinliming2.vscode-go-template]: 'configuration.semanticTokenType.description' must be defined and can not be empty
+2024-12-27 14:41:19.573 [error] [jinliming2.vscode-go-template]: 'configuration.semanticTokenType.description' must be defined and can not be empty
+2024-12-27 14:41:19.573 [error] [jinliming2.vscode-go-template]: 'configuration.semanticTokenType.description' must be defined and can not be empty
+2024-12-27 14:41:19.580 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 Coding Agent +10 Million Developers (Blackboxapp.blackbox)
+2024-12-27 14:41:19.580 [info] [Codium.codium]: Command `codium.chat.history` already registered by Qodo Gen: AI Coding Assistant (Codium VS Code) - Code, Test and Review with Confidence, supporting Python, Javascript, Typescript, Java, PHP, Go, and more (Codium.codium)
+2024-12-27 14:41:19.580 [info] [Codium.codium]: Command `codium.chat.newChat` already registered by Qodo Gen: AI Coding Assistant (Codium VS Code) - Code, Test and Review with Confidence, supporting Python, Javascript, Typescript, Java, PHP, Go, and more (Codium.codium)
+2024-12-27 14:41:19.584 [info] [PKief.material-icon-theme]: Command `material-icon-theme.activateIcons` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:19.584 [info] [PKief.material-icon-theme]: Command `material-icon-theme.toggleIconPacks` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:19.585 [info] [PKief.material-icon-theme]: Command `material-icon-theme.changeFolderTheme` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:19.585 [info] [PKief.material-icon-theme]: Command `material-icon-theme.changeFolderColor` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:19.585 [info] [PKief.material-icon-theme]: Command `material-icon-theme.restoreDefaultConfig` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:19.585 [info] [PKief.material-icon-theme]: Command `material-icon-theme.toggleExplorerArrows` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:19.585 [info] [PKief.material-icon-theme]: Command `material-icon-theme.changeOpacity` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:19.585 [info] [PKief.material-icon-theme]: Command `material-icon-theme.toggleGrayscale` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:19.585 [info] [PKief.material-icon-theme]: Command `material-icon-theme.changeSaturation` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:19.585 [info] [rafapaulin.try-material-icon-theme]: Command `material-icon-theme.activateIcons` already registered by Material Icon Theme (PKief.material-icon-theme)
+2024-12-27 14:41:19.585 [info] [rafapaulin.try-material-icon-theme]: Command `material-icon-theme.toggleIconPacks` already registered by Material Icon Theme (PKief.material-icon-theme)
+2024-12-27 14:41:19.586 [info] [rafapaulin.try-material-icon-theme]: Command `material-icon-theme.changeFolderTheme` already registered by Material Icon Theme (PKief.material-icon-theme)
+2024-12-27 14:41:19.586 [info] [rafapaulin.try-material-icon-theme]: Command `material-icon-theme.changeFolderColor` already registered by Material Icon Theme (PKief.material-icon-theme)
+2024-12-27 14:41:19.586 [info] [rafapaulin.try-material-icon-theme]: Command `material-icon-theme.restoreDefaultConfig` already registered by Material Icon Theme (PKief.material-icon-theme)
+2024-12-27 14:41:19.592 [info] [DanielSanMedium.dscodegpt]: Menu item references the same command as default and alt-command
+2024-12-27 14:41:19.628 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.activeIconPack'. This property is already registered.
+2024-12-27 14:41:19.628 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.files.associations'. This property is already registered.
+2024-12-27 14:41:19.628 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.folders.associations'. This property is already registered.
+2024-12-27 14:41:19.629 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.languages.associations'. This property is already registered.
+2024-12-27 14:41:19.629 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.folders.theme'. This property is already registered.
+2024-12-27 14:41:19.629 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.folders.color'. This property is already registered.
+2024-12-27 14:41:19.629 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.opacity'. This property is already registered.
+2024-12-27 14:41:19.629 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.hidesExplorerArrows'. This property is already registered.
+2024-12-27 14:41:19.629 [warning] [PKief.material-icon-theme]: Cannot register 'material-icon-theme.saturation'. This property is already registered.
+2024-12-27 14:41:19.630 [warning] [rafapaulin.try-material-icon-theme]: Cannot register 'material-icon-theme.showWelcomeMessage'. This property is already registered.
+2024-12-27 14:41:19.630 [warning] [rafapaulin.try-material-icon-theme]: Cannot register 'material-icon-theme.showUpdateMessage'. This property is already registered.
+2024-12-27 14:41:19.630 [warning] [rafapaulin.try-material-icon-theme]: Cannot register 'material-icon-theme.showReloadMessage'. This property is already registered.
+2024-12-27 14:41:19.630 [warning] [rafapaulin.try-material-icon-theme]: Cannot register 'material-icon-theme.activeIconPack'. This property is already registered.
+2024-12-27 14:41:19.630 [warning] [rafapaulin.try-material-icon-theme]: Cannot register 'material-icon-theme.files.associations'. This property is already registered.
+2024-12-27 14:41:19.630 [warning] [rafapaulin.try-material-icon-theme]: Cannot register 'material-icon-theme.folders.associations'. This property is already registered.
+2024-12-27 14:41:19.631 [warning] [rafapaulin.try-material-icon-theme]: Cannot register 'material-icon-theme.languages.associations'. This property is already registered.
+2024-12-27 14:41:19.631 [warning] [rafapaulin.try-material-icon-theme]: Cannot register 'material-icon-theme.folders.theme'. This property is already registered.
+2024-12-27 14:41:19.631 [warning] [rafapaulin.try-material-icon-theme]: Cannot register 'material-icon-theme.folders.color'. This property is already registered.
+2024-12-27 14:41:19.631 [warning] [rafapaulin.try-material-icon-theme]: Cannot register 'material-icon-theme.opacity'. This property is already registered.
+2024-12-27 14:41:19.631 [warning] [rafapaulin.try-material-icon-theme]: Cannot register 'material-icon-theme.hidesExplorerArrows'. This property is already registered.
+2024-12-27 14:41:19.631 [warning] [redhat.java]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2024-12-27 14:41:19.632 [warning] [redhat.vscode-rsp-ui]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2024-12-27 14:41:19.632 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2024-12-27 14:41:19.635 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.dontShowNewVersionMessage'. This property is already registered.
+2024-12-27 14:41:19.635 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.dontShowConfigManuallyChangedMessage'. This property is already registered.
+2024-12-27 14:41:19.635 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.projectDetection.autoReload'. This property is already registered.
+2024-12-27 14:41:19.635 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.projectDetection.disableDetect'. This property is already registered.
+2024-12-27 14:41:19.635 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.presets.angular'. This property is already registered.
+2024-12-27 14:41:19.635 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.presets.jsOfficial'. This property is already registered.
+2024-12-27 14:41:19.636 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.presets.tsOfficial'. This property is already registered.
+2024-12-27 14:41:19.636 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.presets.jsonOfficial'. This property is already registered.
+2024-12-27 14:41:19.636 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.presets.hideFolders'. This property is already registered.
+2024-12-27 14:41:19.636 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.presets.foldersAllDefaultIcon'. This property is already registered.
+2024-12-27 14:41:19.636 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.presets.hideExplorerArrows'. This property is already registered.
+2024-12-27 14:41:19.636 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.customIconFolderPath'. This property is already registered.
+2024-12-27 14:41:19.636 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.associations.files'. This property is already registered.
+2024-12-27 14:41:19.637 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.associations.folders'. This property is already registered.
+2024-12-27 14:41:19.637 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.associations.fileDefault.file'. This property is already registered.
+2024-12-27 14:41:19.637 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.associations.fileDefault.file_light'. This property is already registered.
+2024-12-27 14:41:19.637 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.associations.folderDefault.folder'. This property is already registered.
+2024-12-27 14:41:19.637 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.associations.folderDefault.root_folder'. This property is already registered.
+2024-12-27 14:41:19.637 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.associations.folderDefault.folder_light'. This property is already registered.
+2024-12-27 14:41:19.638 [warning] [wayou.vscode-icons-mac]: Cannot register 'vsicons.associations.folderDefault.root_folder_light'. This property is already registered.
+2024-12-27 14:41:20.299 [error] [geyao.html-snippets]: Unknown language in `contributes.html-snippets.language`. Provided value: vue-html
+2024-12-27 14:41:20.307 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2024-12-27 14:41:21.844 [warning] Authentication provider sqltools-driver-credentials was not declared in the Extension Manifest.
+2024-12-27 14:41:21.933 [info] [perf] Render performance baseline is 31ms
+2024-12-27 14:41:22.102 [warning] Error getting latest version of the extension marcholland.theme-1 404
+2024-12-27 14:41:22.171 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at Object.t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52624
+    at Generator.next (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52022)
+2024-12-27 14:41:22.171 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at Object.t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52624
+    at Generator.next (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52022)
+2024-12-27 14:41:22.172 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at Object.t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52624
+    at Generator.next (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52022)
+2024-12-27 14:41:22.172 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at Object.t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52624
+    at Generator.next (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52022)
+2024-12-27 14:41:22.173 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at Object.t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52624
+    at Generator.next (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52022)
+2024-12-27 14:41:22.175 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at Object.t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52624
+    at Generator.next (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52022)
+2024-12-27 14:41:22.175 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at Object.t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52624
+    at Generator.next (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52022)
+2024-12-27 14:41:22.175 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at Object.t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52624
+    at Generator.next (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52022)
+2024-12-27 14:41:22.176 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at Object.t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52624
+    at Generator.next (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52022)
+2024-12-27 14:41:22.176 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at Object.t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52624
+    at Generator.next (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52022)
+2024-12-27 14:41:22.176 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at Object.t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52624
+    at Generator.next (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52022)
+2024-12-27 14:41:22.177 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at Object.t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52624
+    at Generator.next (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52022)
+2024-12-27 14:41:22.179 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at Object.t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52624
+    at Generator.next (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52022)
+2024-12-27 14:41:22.179 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at Object.t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52624
+    at Generator.next (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52022)
+2024-12-27 14:41:22.489 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:22.489 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:22.490 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:22.492 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:22.493 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:22.493 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:22.493 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:22.494 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:22.494 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:22.494 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:22.495 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:22.495 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:22.495 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:22.495 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:22.873 [warning] Error getting latest version of the extension alexperronnet.spectrum-vscode-icons 404
+2024-12-27 14:41:23.352 [warning] Error getting latest version of the extension mikehanson.auto-barrel 404
+2024-12-27 14:41:23.688 [warning] Error getting latest version of the extension intal.intalicons 404
+2024-12-27 14:41:23.689 [warning] Error getting latest version of the extension geyao.html-snippets 404
+2024-12-27 14:41:25.588 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 Coding Agent +10 Million Developers (Blackboxapp.blackbox)
+2024-12-27 14:41:25.588 [info] [Codium.codium]: Command `codium.chat.history` already registered by Qodo Gen: AI Coding Assistant (Codium VS Code) - Code, Test and Review with Confidence, supporting Python, Javascript, Typescript, Java, PHP, Go, and more (Codium.codium)
+2024-12-27 14:41:25.588 [info] [Codium.codium]: Command `codium.chat.newChat` already registered by Qodo Gen: AI Coding Assistant (Codium VS Code) - Code, Test and Review with Confidence, supporting Python, Javascript, Typescript, Java, PHP, Go, and more (Codium.codium)
+2024-12-27 14:41:25.592 [info] [PKief.material-icon-theme]: Command `material-icon-theme.activateIcons` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:25.592 [info] [PKief.material-icon-theme]: Command `material-icon-theme.toggleIconPacks` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:25.592 [info] [PKief.material-icon-theme]: Command `material-icon-theme.changeFolderTheme` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:25.592 [info] [PKief.material-icon-theme]: Command `material-icon-theme.changeFolderColor` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:25.593 [info] [PKief.material-icon-theme]: Command `material-icon-theme.restoreDefaultConfig` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:25.593 [info] [PKief.material-icon-theme]: Command `material-icon-theme.toggleExplorerArrows` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:25.593 [info] [PKief.material-icon-theme]: Command `material-icon-theme.changeOpacity` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:25.593 [info] [PKief.material-icon-theme]: Command `material-icon-theme.toggleGrayscale` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:25.593 [info] [PKief.material-icon-theme]: Command `material-icon-theme.changeSaturation` already registered by Gruvbox Material Icon Theme (JonathanHarty.gruvbox-material-icon-theme)
+2024-12-27 14:41:25.593 [info] [rafapaulin.try-material-icon-theme]: Command `material-icon-theme.activateIcons` already registered by Material Icon Theme (PKief.material-icon-theme)
+2024-12-27 14:41:25.594 [info] [rafapaulin.try-material-icon-theme]: Command `material-icon-theme.toggleIconPacks` already registered by Material Icon Theme (PKief.material-icon-theme)
+2024-12-27 14:41:25.594 [info] [rafapaulin.try-material-icon-theme]: Command `material-icon-theme.changeFolderTheme` already registered by Material Icon Theme (PKief.material-icon-theme)
+2024-12-27 14:41:25.594 [info] [rafapaulin.try-material-icon-theme]: Command `material-icon-theme.changeFolderColor` already registered by Material Icon Theme (PKief.material-icon-theme)
+2024-12-27 14:41:25.594 [info] [rafapaulin.try-material-icon-theme]: Command `material-icon-theme.restoreDefaultConfig` already registered by Material Icon Theme (PKief.material-icon-theme)
+2024-12-27 14:41:25.599 [info] [DanielSanMedium.dscodegpt]: Menu item references the same command as default and alt-command
+2024-12-27 14:41:26.344 [info] Extension host (LocalProcess pid: 1844) is unresponsive.
+2024-12-27 14:41:27.779 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-12-27 14:41:28.074 [info] Extension host (LocalProcess pid: 1844) is responsive.
+2024-12-27 14:41:28.074 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-12-27 14:41:29.569 [warning] Authentication provider rapidapi was not declared in the Extension Manifest.
+2024-12-27 14:41:29.743 [warning] Authentication provider gitlab was not declared in the Extension Manifest.
+2024-12-27 14:41:30.032 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.032 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.033 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.033 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.034 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.034 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.035 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.038 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.038 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.038 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.039 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.039 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.039 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.040 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.044 [error] [ExtensionListenerError] Extension 'yasht.terminal-all-in-one' FAILED to handle event: TypeError: Cannot read properties of undefined (reading 'call'): Error: [ExtensionListenerError] Extension 'yasht.terminal-all-in-one' FAILED to handle event: TypeError: Cannot read properties of undefined (reading 'call')
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35617)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.167 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.167 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.167 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.167 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.167 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.168 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.170 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.170 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.170 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.171 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.171 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.172 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.172 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:30.172 [error] [Extension Host] SyntaxError: "undefined" is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.t.getObjectPropertyValue (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:57396)
+    at c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53379
+    at Array.reduce (<anonymous>)
+    at a (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:53265)
+    at t.detectConfigChanges (c:\Users\Usuario\.vscode\extensions\jonathanharty.gruvbox-material-icon-theme-1.1.5\dist\extension.js:1:52934)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:35593)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.C (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:816)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1033)
+    at vO.$acceptConfigurationChanged (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:3150)
+    at file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:2700
+2024-12-27 14:41:34.844 [error] [Extension Host] [Postman VS Code Extension](2024-12-27T17:41:34.829Z) [extension:commands] Error in executing the command Error: Webview is disposed
+    at $B.c (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:20830)
+    at $B.get webview [as webview] (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:19997)
+    at ap.sendMessageToWebview (c:\Users\Usuario\.vscode\extensions\postman.postman-for-vscode-1.5.1\dist\extension.js:2:6888695)
+    at c:\Users\Usuario\.vscode\extensions\postman.postman-for-vscode-1.5.1\dist\extension.js:2:7122763
+    at Map.forEach (<anonymous>)
+    at $_.broadcast (c:\Users\Usuario\.vscode\extensions\postman.postman-for-vscode-1.5.1\dist\extension.js:2:7122748)
+    at c:\Users\Usuario\.vscode\extensions\postman.postman-for-vscode-1.5.1\dist\extension.js:2:7163661
+    at cw.h (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+    at cw.g (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31910)
+    at cw.executeCommand (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:31817)
+    at Object.executeCommand (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:37484)
+    at h.<anonymous> (c:\Users\Usuario\.vscode\extensions\postman.postman-for-vscode-1.5.1\dist\extension.js:2:6592926)
+    at Generator.next (<anonymous>)
+    at c:\Users\Usuario\.vscode\extensions\postman.postman-for-vscode-1.5.1\dist\extension.js:2:6586915
+    at new Promise (<anonymous>)
+    at r (c:\Users\Usuario\.vscode\extensions\postman.postman-for-vscode-1.5.1\dist\extension.js:2:6586649)
+    at h.executeVSCodeCommand (c:\Users\Usuario\.vscode\extensions\postman.postman-for-vscode-1.5.1\dist\extension.js:2:6592810)
+    at Object.onDidTabClose (c:\Users\Usuario\.vscode\extensions\postman.postman-for-vscode-1.5.1\dist\extension.js:2:7128490)
+    at kh.value (c:\Users\Usuario\.vscode\extensions\postman.postman-for-vscode-1.5.1\dist\extension.js:2:6887311)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+    at $B.dispose (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:19896)
+    at kI.$onDidDisposeWebviewPanel (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:157:21867)
+    at Dy.S (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115275)
+    at Dy.Q (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115055)
+    at Dy.M (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:114144)
+    at Dy.L (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:113249)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112046)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+    at Vn.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:9457)
+    at kh.value (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:13296)
+    at P.B (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+    at P.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+    at Vn.fire (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:9457)
+    at MessagePortMain.<anonymous> (file:///c:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11588)
+    at MessagePortMain.emit (node:events:518:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24)
