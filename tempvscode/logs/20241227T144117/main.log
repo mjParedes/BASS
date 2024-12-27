@@ -1,6 +1,0 @@
-2024-12-27 14:41:18.129 [error] Error: Error mutex already exists
-    at yu.U (file:///C:/Users/Usuario/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/main.js:80:29518)
-2024-12-27 14:41:18.136 [info] update#setState idle
-2024-12-27 14:41:48.152 [info] update#setState checking for updates
-2024-12-27 14:41:48.350 [info] update#setState idle
-2024-12-27 14:42:31.643 [info] Extension host with pid 1844 exited with code: 0, signal: unknown.
