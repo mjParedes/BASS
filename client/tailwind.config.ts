@@ -11,6 +11,12 @@ export default {
 	theme: {
 		extend: {
 			colors: {
+				custom: {
+					gainsboro: '#dcdcdc',
+					silver: '#c0c0c0',
+					slateGray:'#708090',
+					dimGray: '#696969',
+				},
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
 				card: {

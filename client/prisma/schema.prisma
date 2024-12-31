@@ -28,6 +28,7 @@ model User {
   name        String
   email       String    @unique
   password    String
+  photo       String?   // Optional user profile photo
   createdAt   DateTime  @default(now())
   orders      Order[]
   addresses   Address[]
@@ -39,6 +40,7 @@ model Product {
   description String?
   price       Decimal           @db.Decimal(10, 2)
   stock       Int               @default(0)
+  image       String            // Product image URL
   createdAt   DateTime          @default(now())
   variants    ProductVariant[]
   categories  ProductCategory[]
@@ -100,4 +102,3 @@ model Address {
   country   String
   user      User      @relation(fields: [userId], references: [id])
 }
-

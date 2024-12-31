@@ -1,15 +1,16 @@
 'use client'
 import Link from 'next/link'
-import { ShoppingCart, User } from 'lucide-react'
+import { Search, ShoppingCart, User } from 'lucide-react'
 import brandLogo from '../../../public/img/bass_logo.ico'
 import Image from 'next/image'
-import { ModeToggle } from '../ModeToogle'
+import { Input } from '../ui/input'
+import { Button } from '../ui/button'
 
 
 export default function Header() {
 
 	return (
-		<header className='p-2 sm:p-4 border-none'>
+		<header className='sticky top-0 z-50 bg-white p-2 sm:p-4 border-none'>
 			<nav className='flex flex-col gap-8'>
 				<div className='flex flex-col gap-2 items-center justify-between sm:flex-row'>
 					<div className='flex items-center space-x-1'>
@@ -18,8 +19,11 @@ export default function Header() {
 						</h1>
 						<Image src={brandLogo} alt='brand logo' width={24} height={24} />
 					</div>
-					<div className='flex'>
-						<input type='search' placeholder='Busca tu producto' className='rounded border-2 border-black' />
+					<div className="flex w-full max-w-80 items-center space-x-2 md:max-w-96">
+						<Input type="search" placeholder="Beauty hangbag" />
+						<Button type="submit">
+							<Search />
+						</Button>
 					</div>
 					<div className='flex space-x-4 items-center'>
 						<Link href={'/'}>
@@ -28,7 +32,6 @@ export default function Header() {
 						<Link href={'/'}>
 							<User />
 						</Link>
-						<ModeToggle />
 					</div>
 				</div>
 			</nav>
