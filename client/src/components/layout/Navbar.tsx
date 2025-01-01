@@ -31,7 +31,7 @@ export default function Navbar({ role }: NavProps) {
 	}, [])
 
 	return (
-		<nav className='sticky top-[60px] z-50 bg-white w-full p-2 border-b border-gray-200 shadow'>
+		<nav className='sticky top-[124px] sm:top-[72px] z-50 bg-white w-full p-2 border-b border-gray-200 shadow'>
 			{/* Desktop Navigation */}
 			<ul className='hidden justify-center items-center space-x-2 font-semibold sm:flex md:space-x-4 lg:space-x-6'>
 				{navLinks.map((link, idx) => (
@@ -59,7 +59,7 @@ export default function Navbar({ role }: NavProps) {
 				{menuOpen && (
 					<div
 						ref={menuRef}
-						className='absolute top-12 right-0 w-full bg-white dark:bg-black  shadow-lg p-4 z-50'
+						className='absolute top-12 right-0 w-full bg-white dark:bg-black  shadow-lg p-4 z-40'
 					>
 						<ul className='flex flex-col items-center space-y-4'>
 							{navLinks.map((link, idx) => (

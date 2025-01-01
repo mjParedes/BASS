@@ -14,8 +14,10 @@ export default {
 				custom: {
 					gainsboro: '#dcdcdc',
 					silver: '#c0c0c0',
-					slateGray:'#708090',
+					lightSlate: '#778899',
+					slateGray: '#708090',
 					dimGray: '#696969',
+					fullDark: '#17202a'
 				},
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',

@@ -1,6 +1,6 @@
 'use client'
 import Link from 'next/link'
-import { Search, ShoppingCart, User } from 'lucide-react'
+import { CircleUser, Search, ShoppingBasket } from 'lucide-react'
 import brandLogo from '../../../public/img/bass_logo.ico'
 import Image from 'next/image'
 import { Input } from '../ui/input'
@@ -27,10 +27,10 @@ export default function Header() {
 					</div>
 					<div className='flex space-x-4 items-center'>
 						<Link href={'/'}>
-							<ShoppingCart />
+							<ShoppingBasket />
 						</Link>
 						<Link href={'/'}>
-							<User />
+							<CircleUser />
 						</Link>
 					</div>
 				</div>

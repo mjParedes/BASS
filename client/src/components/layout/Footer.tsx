@@ -4,7 +4,7 @@ import React from 'react'
 
 export default function Footer() {
 	return (
-		<footer className='bg-custom-slateGray pt-14 pb-6 px-4 text-white space-y-12'>
+		<footer className='bg-custom-fullDark pt-14 pb-6 px-4 text-white space-y-12'>
 			<div className='flex flex-col items-center sm:flex-row sm:justify-around sm:items-center gap-4'>
 				<div className='flex flex-col items-center space-y-6'>
 					<h2 className='text-lg font-semibold'>SOCIAL NETWORK</h2>
