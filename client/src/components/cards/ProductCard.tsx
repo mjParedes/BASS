@@ -32,7 +32,7 @@ export default function ProductCard({ ...data }: ProductProps) {
 				<p className='text-base font-bold text-gray-900 mt-2'>${price}</p>
 			</CardHeader>
 			<CardFooter className='flex flex-col items-center gap-2'>
-				<Button className='bg-black text-white w-full py-2 rounded-md'>
+				<Button className='bg-black text-white w-full py-2 rounded-md transition ease-in-out duration-150'>
 					<ShoppingBag />
 					Add to Bag
 				</Button>

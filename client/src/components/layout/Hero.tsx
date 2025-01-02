@@ -66,7 +66,7 @@ export default function Hero() {
 
 	return (
 		<div className=''>
-			<div className='pb-4'>
+			<div className='pb-8'>
 				<Slider {...settings}>
 					{slideData.map((item) => (
 						<Slide

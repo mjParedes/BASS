@@ -20,7 +20,7 @@ export default function PromoServiceCard({ title, description, icon }: PropsServ
 				<h2 className='text-3xl font-bold'>{title}</h2>
 			</CardHeader>
 			<CardDescription>
-				<p className='text-lg font-light text-custom-gainsboro'>{description}</p>
+				<p className='text-lg font-light text-custom-gainsboro '>{description}</p>
 			</CardDescription>
 		</Card>
 	)

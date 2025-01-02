@@ -6,7 +6,7 @@ import PromoSection from "@/components/home/PromoSection";
 
 export default function Home() {
   return (
-    <main className="p-0 space-y-12">
+    <main className="p-0 ">
       <Hero />
       <div className="bg-custom-gainsboro w-full space-y-12 py-12 px-6">
         <h2 className="text-5xl font-bold text-center">WE HAVE THE BEST CATALOG FOR YOU</h2>

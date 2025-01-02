@@ -11,7 +11,7 @@ interface PropsType {
 
 export default function Slide({ img }: PropsType) {
 	return (
-		<div className="relative flex items-center justify-between h-screen max-h-[80vh] w-full overflow-hidden rounded-lg">
+		<div className="relative flex items-center justify-between h-screen max-h-[80vh] w-full overflow-hidden">
 			<Image
 				className="absolute inset-0 object-scale-down- object-center"
 				src={img}
