@@ -18,6 +18,7 @@ export default function Home() {
               description={prod.description}
               image={prod.image}
               price={prod.price}
+              discount={prod.discount}
             />
           ))}
         </div>

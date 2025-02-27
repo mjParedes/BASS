@@ -30,7 +30,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={`${montserrat.variable} antialiased`}>
+      <body className={`${montserrat.variable} antialiased `} suppressHydrationWarning>
         <ThemeProvider
           attribute="class"
           defaultTheme='system'
@@ -38,7 +38,7 @@ export default function RootLayout({
           disableTransitionOnChange>
           <main>
             <Header />
-            <Navbar role="admin" />
+            <Navbar role="user" />
             {children}
             <Footer />
           </main>

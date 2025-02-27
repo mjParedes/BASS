@@ -1,11 +1,11 @@
 // Navigation for regular users
 export const USER_NAVIGATION_LINKS = [
-  { label: 'Home', href: '/' },
-  { label: 'Bags', href: '/bags' },
-  { label: 'Clothing', href: '/clothing' },
-  { label: 'Others', href: '/others' },
-  { label: 'Contact', href: '/contact' },
-  { label: 'About', href: '/about' }
+  { label: 'HOME', href: '/' },
+  { label: 'WOMEN', href: '/women' },
+  { label: 'MEN', href: '/men' },
+  { label: 'BAGS', href: '/bags' },
+  { label: 'DEALS', href: '/deals' },
+  { label: 'ABOUT US', href: '/about' },
 ]
 
 // Navigation for administrators
